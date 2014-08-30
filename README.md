@@ -6,6 +6,14 @@
 
 yes
 
+# installation
+
+``` bash
+$ git clone https://github.com/ashaindlin/git-fem.git
+$ cd git-fem
+$ sudo make install
+```
+
 # usage
 
 ``` bash
