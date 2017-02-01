@@ -1,0 +1,25 @@
+{
+  "name": "git-fem",
+  "version": "1.0.0",
+  "description": "change your `master` branch to `mistress`",
+  "bin": {
+    "git-fem": "./git-fem.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashaindlin/git-fem.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "femme",
+    "feminist",
+    "feminism",
+    "tool",
+    "utility",
+    "script"
+  ],
+  "author": "ashaindlin",
+  "license": "MIT",
+  "homepage": "https://github.com/ashaindlin/git-fem"
+}
