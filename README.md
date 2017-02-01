@@ -8,10 +8,18 @@ yes
 
 # installation
 
+from source:
+
 ``` bash
 $ git clone https://github.com/ashaindlin/git-fem.git
 $ cd git-fem
 $ sudo make install
+```
+
+via [npm](https://nodejs.org/en/download/):
+
+```bash
+$ npm install git-fem -g
 ```
 
 # usage
