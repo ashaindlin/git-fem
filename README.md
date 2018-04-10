@@ -6,6 +6,14 @@
 
 yes
 
+> "is this some kind of statement instead of something with real utility?" - a man
+
+also yes
+
+> "why do you break one of the most standard VCS conventions in history for the sake of censoring other peoples vernacular?" - a man
+
+because feminism is more important than practical utility, duh!
+
 # installation
 
 ``` bash
